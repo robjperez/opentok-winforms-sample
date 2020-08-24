@@ -1,6 +1,6 @@
 # OpenTok WinForms Sample
 
-<img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
+<img src="https://assets.tokbox.com/img/vonage/Vonage_VideoAPI_black.svg" height="48px" alt="Tokbox is now known as Vonage" />
 
 This sample demonstrates a basic video chat application using [Windows Forms](https://docs.microsoft.com/en-us/dotnet/framework/winforms/) and the Vonage Video API
 
